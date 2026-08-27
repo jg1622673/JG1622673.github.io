@@ -1,6 +1,6 @@
 # About Me
 
-Hello! I am [JG].
+Hello! I am [jg].
 
 Write a short paragraph about your interests, skills, or goals.
 
