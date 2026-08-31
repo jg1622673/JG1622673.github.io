@@ -74,6 +74,21 @@ Expressions are evaluated to produce a single value (a value can be a number, a 
   An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language.
 </details>
 
+<details>
+  <summary>Pseudocode</summary>
+  Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+What's the purpose of "pseudocode"? Why write an algorithm vaguely in English when you could write it precisely in Snap!? If you were programming in a punctuation-heavy language, designing your program in pseudocode would help you focus on the important ideas instead of on details like quotation marks and semicolons. But pseudocode isn't as necessary with a language like Snap!, and pseudocode can make it easy for you to fall into wishful thinking about what the computer is capable of (such as writing "Pick tomorrow's winning lottery numbers" or "Here's the melody; write the harmony").
+</details>
+
+<details>
+  <summary>Parameter</summary>
+  A parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes.<img width="600" height="223" alt="example-parameter" src="https://github.com/user-attachments/assets/c197a8f3-ea99-4fc7-a75d-575a78ac424d" />
+</details>
+
+<details>
+  <summary>Argument</summary>
+  An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time.<img width="331" height="36" alt="example-argument" src="https://github.com/user-attachments/assets/848c1d43-6d35-4d8b-8b2e-09871909e62f" />We use the word "input" both for parameters (input names) and for arguments (input values).
+</details>
 
 
 
