@@ -1,18 +1,157 @@
 Table of Contents
-
+- [Vocab](#vocab)
+- [Important blocks](#important-blocks)
+- [On the AP Exam](#on-the-ap-exam)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
-
   - [Headings](#headings)
-
   - [Text Formatting](#text-formatting)
 
-------------------------------------------------------------------
 
- Under the table is contents is where you will add your notes.
 
-Add about 30 lines below the table and then paste all of the following to the end of your notebook to have the style guide and reference:
 
- ------------------------------------------------------------------
+
+
+
+## Vocab
+<details>
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+<details>
+  <summary>Transparency</summary>
+  The transparency of an image is how much you can see what's behind it. For example, here is the Alonzo sprite shown with three different transparencies (which have been set using the ghost effect block).<img width="480" height="237" alt="transparency2" src="https://github.com/user-attachments/assets/57240fcf-fe01-4c66-b337-52dfbc4a5b01" />
+</details>
+
+<details>
+  <summary>Expression</summary>
+  An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs (such as<img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/59f88d10-4a88-42a7-8162-144fabd129c4" />,
+<img width="85" height="22" alt="number" src="https://github.com/user-attachments/assets/c8e4e12a-ebe5-4726-ab61-72561bfe9be9" />,
+  or<img width="351" height="28" alt="join-who-doeswhat-who" src="https://github.com/user-attachments/assets/578471d0-56d1-4039-9d7e-6747fb230474" /> ).
+Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/1b47ef84-20fc-42c8-886b-9798d5466a84" /> will be evaluated to 17.
+</details>
+
+<details>
+  <summary>Procedures</summary>
+  A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions. Here are two types of procedures you have seen in Snap!
+</details>
+
+<details>
+  <summary>Reporters</summary>
+  Reporters have an oval shape. They report a value.
+  <img width="212" height="27" alt="pick-random-empty-full-size" src="https://github.com/user-attachments/assets/564a2a9b-f412-4178-b17d-a0ee8cd876ca" />
+</details>
+
+<details>
+  <summary>Commands</summary>
+  Commands have a jigsaw puzzle shape. They tell the computer to do something without reporting a value.
+  <img width="147" height="37" alt="broadcast" src="https://github.com/user-attachments/assets/b9680ba7-70df-42dd-99b6-f0aa5413e91b" />
+</details>
+
+<details>
+  <summary>List</summary>
+  A list is an ordered sequence of items. You've seen this example:
+  <img width="496" height="169" alt="list-from-who-result" src="https://github.com/user-attachments/assets/d65a6b9b-79be-4733-b01a-a9da6cffbbc3" />
+</details>
+
+<details>
+  <summary>Strings</summary>
+  The items of this list are strings. A string is a sequence of characters (letters, digits, punctuation, etc.). A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
+</details>
+
+<details>
+  <summary>Concatenation</summary>
+  To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="116" height="27" alt="join()()" src="https://github.com/user-attachments/assets/8cfc2d42-c1fd-4343-8bd5-0800d4d37c50" />block lets you concatenate strings.
+</details>
+
+<details>
+ <summary>Algorithm</summary>
+  An algorithm is a sequence of steps that are usually performed by a computer. The algorithm doesn't have to be written in any particular programming language or even in a programming language at all; you can write your algorithm in English or any other human language.
+</details>
+
+
+
+
+
+
+
+
+
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
+
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+
+
+
+
+## On the AP Exam
+<img width="1006" height="120" alt="image-2" src="https://github.com/user-attachments/assets/17476633-14c8-4c2e-af40-3f61c8655215" />
+
+  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Markdown Style Guide for Coding Notebooks
 
