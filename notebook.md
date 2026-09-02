@@ -134,6 +134,11 @@ The code can be repeated forever, a specific number of times (such as when using
 
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+  - There is nothing exactly like <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/97f534df-fb9c-41ca-bc51-8f0744a7458b" /> or <img width="240" height="37" alt="say-gossip-for-3-secs" src="https://github.com/user-attachments/assets/2d1ce2b6-c8d3-4f30-a1e7-603ef933d7a8" /> on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or <img width="130" height="27" alt="display(gossip)" src="https://github.com/user-attachments/assets/e7447dca-3e7c-4dc3-b410-87f8668006c2" /> if it's shown as blocks.
+You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
+
+
+
 
 
 
