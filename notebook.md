@@ -90,6 +90,11 @@ What's the purpose of "pseudocode"? Why write an algorithm vaguely in English wh
   An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time.<img width="331" height="36" alt="example-argument" src="https://github.com/user-attachments/assets/848c1d43-6d35-4d8b-8b2e-09871909e62f" />We use the word "input" both for parameters (input names) and for arguments (input values).
 </details>
 
+<details>
+  <summary>Personally Identifiable Information (PII)</summary>
+  Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
+</details>
+
 
 
 
