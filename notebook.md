@@ -95,6 +95,18 @@ What's the purpose of "pseudocode"? Why write an algorithm vaguely in English wh
   Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
 </details>
 
+<details>
+  <summary>Values</summary>
+  Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="201" height="33" alt="5+(4x3)" src="https://github.com/user-attachments/assets/62b6c68c-05d8-4465-a225-166473b5c791" />will be evaluated to 17.
+</details>
+
+<details>
+  <summary>Iteration</summary>
+  Computer scientists describe a repeating program structure as looping, repetition, or iteration.
+The code can be repeated forever, a specific number of times (such as when using repeat), or until something specific happens (such as when using repeat until as you'll see in Lab 5).<img width="324" height="121" alt="move-tiny-no-hat" src="https://github.com/user-attachments/assets/472b458c-685a-49b2-8192-59f57dcbddf8" />
+<img width="209" height="115" alt="repeat-4(move-100-turn-right-90)" src="https://github.com/user-attachments/assets/1b7250af-b5c4-447b-aef1-6cca5bfb177e" />
+</details>
+
 
 
 
