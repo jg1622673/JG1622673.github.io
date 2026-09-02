@@ -136,6 +136,28 @@ The code can be repeated forever, a specific number of times (such as when using
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
   - There is nothing exactly like <img width="127" height="37" alt="say-gossip" src="https://github.com/user-attachments/assets/97f534df-fb9c-41ca-bc51-8f0744a7458b" /> or <img width="240" height="37" alt="say-gossip-for-3-secs" src="https://github.com/user-attachments/assets/2d1ce2b6-c8d3-4f30-a1e7-603ef933d7a8" /> on the AP Exam because they don't have sprites and speech balloons, but their way of showing this text to the user is DISPLAY(gossip()) if it's written as text or <img width="130" height="27" alt="display(gossip)" src="https://github.com/user-attachments/assets/e7447dca-3e7c-4dc3-b410-87f8668006c2" /> if it's shown as blocks.
 You won't have to be able to write code in this notation on the AP exam. You just have to be able to read it so you can answer questions about it.
+  - The procedure <img width="263" height="105" alt="double-block-definition" src="https://github.com/user-attachments/assets/5d75162c-e179-4e1a-b317-ea83c5c00a80" /> would be written as 
+PROCEDURE double(x)
+{
+    RETURN(2 * x)
+}
+or <img width="163" height="83" alt="double-blocktran" src="https://github.com/user-attachments/assets/82c3717e-0c16-4b7a-adc9-d49cfa941549" />Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
+  -The expression <img width="235" height="27" alt="pick-random-1-to-10-full-size" src="https://github.com/user-attachments/assets/ce325e60-c284-46db-b2a1-37be9e5e3548" />would be written as RANDOM(1, 10) or <img width="92" height="16" alt="random-blocktran" src="https://github.com/user-attachments/assets/d5acdf2f-548a-413b-aea5-640b73024047" /> Every time you run this code, you will get a different random number between 1 and 10.
+
+  -The procedure definition for the custom pinwheel command<img width="377" height="180" alt="pinwheel-blocktran-definition" src="https://github.com/user-attachments/assets/e6ef2744-92cc-4460-9c77-5fb608873d90" />The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
+Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block" src="https://github.com/user-attachments/assets/700f9786-bfa5-468b-ae32-938f8a5fd25b" /> would be written as PROCEDURE pinwheel(numberOfBranches). The word PROCEDURE tells you that that line of the code is like a hat block; the variable name in the parentheses on that line is the input that the procedure takes.
+
+  -This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/e987cff3-b8f7-4072-8a76-d6381cf06c9f" /> would be written as Pinwheel(6, 80, 20) or You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
+
+  -
+
+
+
+
+
+
 
 
 
