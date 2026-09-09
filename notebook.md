@@ -127,6 +127,35 @@ The code can be repeated forever, a specific number of times (such as when using
   Is a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
 </details>
 
+<details>
+  <summary>Algorithm</summary>
+  A finite set of instructions used to accomplish a task. Ex.	The instructions that move a robot to its final position.
+</details>
+
+<details>
+  <summary>Sequencing</summary>
+  	Statements execute in the order they appear unless the flow of control changes. EX. ROTATE_LEFT() followed by MOVE_FORWARD()
+</details>
+
+<details>
+  <summary>Selection</summary>
+  	Uses a condition to determine which part of an algorithm is executed. Ex.IF (x < 3)
+</details>
+
+<details>
+  <summary>Iteration</summary>
+  Repeating a set of instructions in an algorithm. Ex. 	REPEAT 3 TIMES
+</details>
+
+<details>
+  <summary>Variable</summary>
+  	A named value that can change while a program runs. Ex. i in i ← 3
+</details>
+
+<details>
+  <summary>Assignment</summary>
+  Stores a value in a variable. Ex. i ← 3
+</details>
 
 
 
