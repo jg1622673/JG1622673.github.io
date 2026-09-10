@@ -157,6 +157,59 @@ The code can be repeated forever, a specific number of times (such as when using
   Stores a value in a variable. Ex. i ← 3
 </details>
 
+<details>
+  <summary>Expression</summary>
+  A combination of values, variables, and operators that evaluates to a value. Ex.i - 1
+</details>
+
+<details>
+  <summary>Condition</summary>
+  	An expression that evaluates to either true or false. Ex. x < 3
+</details>
+
+
+<details>
+  <summary>Boolean</summary>
+  A value that is either true or false. Ex. The result of x ≤ 1
+</details>
+
+<details>
+  <summary>Relational Operator</summary>
+  Compares two values and produces a Boolean result. Ex. <, >, ≤, ≥, =, ≠
+</details>
+
+<details>
+  <summary>Procedure</summary>
+  A named group of programming instructions that performs a task. Ex. 	PROCEDURE FancyMove(x)
+</details>
+
+<details>
+  <summary>Procedure Call</summary>
+  Tells the program to execute a procedure. Ex.	FancyMove(i)
+</details>
+
+<details>
+  <summary>Parameter</summary>
+  A variable in a procedure definition that receives a value when the procedure is called. Ex. x in PROCEDURE FancyMove(x)
+</details>
+
+<details>
+  <summary>Flow of Control</summary>
+  The order in which statements in a program are executed. Ex. An IF determines which branch runs.
+</details>
+
+<details>
+  <summary>Nested Selection</summary>
+  A selection statement contained inside another selection statement. Ex.	An IF inside an ELSE block.
+</details>
+
+<details>
+  <summary>Nested Iteration</summary>
+  An iteration statement contained inside another iteration statement. Ex. 	REPEAT i TIMES inside REPEAT 3 TIMES
+</details>
+
+
+
 
 
 
