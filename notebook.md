@@ -248,12 +248,14 @@ The exam uses "value of a procedure" to mean the value the procedure returns whe
 
   -The expression <img width="235" height="27" alt="pick-random-1-to-10-full-size" src="https://github.com/user-attachments/assets/ce325e60-c284-46db-b2a1-37be9e5e3548" />would be written as RANDOM(1, 10) or <img width="92" height="16" alt="random-blocktran" src="https://github.com/user-attachments/assets/d5acdf2f-548a-413b-aea5-640b73024047" /> Every time you run this code, you will get a different random number between 1 and 10.
 
-  -The procedure definition for the custom pinwheel command<img width="377" height="180" alt="pinwheel-blocktran-definition" src="https://github.com/user-attachments/assets/e6ef2744-92cc-4460-9c77-5fb608873d90" />The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
+  -The procedure definition for the custom pinwheel command<img width="450" height="222" alt="pinwheel-definition" src="https://github.com/user-attachments/assets/8db7122d-5832-48e4-85be-6bcc42bd9420" /> Would be written as<img width="377" height="180" alt="pinwheel-blocktran" src="https://github.com/user-attachments/assets/7ca3dc6d-d9e5-4bc2-8179-5d61d2e687a5" />
+
+-The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
 Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block" src="https://github.com/user-attachments/assets/700f9786-bfa5-468b-ae32-938f8a5fd25b" /> would be written as PROCEDURE pinwheel(numberOfBranches). The word PROCEDURE tells you that that line of the code is like a hat block; the variable name in the parentheses on that line is the input that the procedure takes.
 
   -This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/e987cff3-b8f7-4072-8a76-d6381cf06c9f" /> would be written as Pinwheel(6, 80, 20) or You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
 
-  -
+  
 
 
 
